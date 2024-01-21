@@ -8,6 +8,7 @@ Pesquisa em Collections usando Nome
 Ordenação por Número
 Ordenação por Nome
 Criação de uma List
-
 ```
+##Observação
+Também foram feitos teste de cada exemplo citado acima.
 
