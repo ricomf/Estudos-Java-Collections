@@ -15,6 +15,6 @@ Também foram feitos teste de cada exemplo citado acima.
 # Ilustração da Hierarquia do Collections:
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7OrA5J8F3ur-_FTxzS7zVAsTAwpZA8UKArOSm5ekhA&s" alt="Hierarquia Collections Java"> alt="List interface hierarchy Java"><br>
-<a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7OrA5J8F3ur-_FTxzS7zVAsTAwpZA8UKArOSm5ekhA&s" alt="Hierarquia Collections Java" <alt="List interface hierarchy Java"><br>
+<a href="https://data-flair.training/blogs/collection-framework-in-java/ " Hierarchy of Collection Framework in Java /a>
 </p>
