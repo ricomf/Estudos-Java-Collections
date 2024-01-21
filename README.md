@@ -15,5 +15,4 @@ Também foram feitos teste de cada exemplo citado acima.
 # Ilustração da Hierarquia do Collections:
 
 
-![Hierarchy of Collection Framework in Java](https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/03/hierarchy-of-collection-framework-in-java.webp)
-
+<img src="[https://exemplo.com/logo.png](https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/03/hierarchy-of-collection-framework-in-java.webp)https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/03/hierarchy-of-collection-framework-in-java.webp">
